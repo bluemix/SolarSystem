@@ -1,3 +1,5 @@
+![screencast](screencast.gif)
+
 # SolarSystem
 An Android app that animates the motion of the planets and select minor planets, asteroids, and comets in the solar system using Java threads for the animation.
 
